@@ -1,3 +1,9 @@
+# ignore generated documentation
+docs/doxygen/
+
+# ignore generated requirements
+requirements.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
